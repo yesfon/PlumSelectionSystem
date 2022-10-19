@@ -1,3 +1,5 @@
+![PlumSelectionSys](https://user-images.githubusercontent.com/102532937/196607982-b90a6782-8ed8-479c-be9c-e574dd3e207b.gif)
+
 # Requirements
 The versions of the libraries used are the following:
 
