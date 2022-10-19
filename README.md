@@ -1,4 +1,10 @@
 # Requirements
+The versions of the libraries used are the following:
+
+- Tensor Flow Version: 2.3.0 (Make sure to install the GPU version of this library)
+- Keras Version: 2.4.0
+- Python 3.8.5
+
 
 # PlumSelectionSystem
 This repository is made up of two main elements, the first is a data set that is made up of images taken from post-harvest samples of the fruit known as plum, specifically of the horvin variety.
