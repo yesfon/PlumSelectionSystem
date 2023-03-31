@@ -1,4 +1,4 @@
-[figure3.pdf](https://github.com/yesfon/PlumSelectionSystem/files/11120035/figure3.pdf)
+![figure3](https://user-images.githubusercontent.com/102532937/229073972-7602cebb-f372-42ef-bf2b-4370822025bf.svg)
 
 # Requirements
 The versions of the libraries used are the following:
