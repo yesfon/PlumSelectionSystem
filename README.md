@@ -1,4 +1,4 @@
-![figure3](https://user-images.githubusercontent.com/102532937/229073972-7602cebb-f372-42ef-bf2b-4370822025bf.svg)
+![figure3-1](https://user-images.githubusercontent.com/102532937/229074772-839abf55-0b3a-4e40-8912-737b97642cff.png)
 
 # Requirements
 The versions of the libraries used are the following:
