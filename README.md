@@ -1,3 +1,5 @@
+[figure3.pdf](https://github.com/yesfon/PlumSelectionSystem/files/11120035/figure3.pdf)
+
 # Requirements
 The versions of the libraries used are the following:
 
