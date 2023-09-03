@@ -20,4 +20,4 @@ The second element is composed of two codes made in jupyter notebook. The first 
 
 The idea of this proposal was to generate a compact and low-cost solution that was based on artificial intelligence techniques. In order to present a complete solution to the problem, a conveyor belt prototype is designed that allows carrying out the classification of this fruit beyond the simulation, that is, making a tangible classification of the fruits. The following link shows how the prototype works:
 
-- [https://youtu.be/xAGpDa8FeNA](https://youtu.be/2B8jPHzcGXE)https://youtu.be/2B8jPHzcGXE
+- https://youtu.be/2B8jPHzcGXE
