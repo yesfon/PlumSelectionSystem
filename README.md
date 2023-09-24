@@ -24,14 +24,16 @@ The idea of this proposal was to generate a compact and low-cost solution that w
 
 # Citation
 If you use our work, please cite us using the following:
+
+```bibtex
 @article{FONSECA2023100793,
-title = {A plum selection system that uses a multi-class Convolutional Neural Network (CNN)},
-journal = {Journal of Agriculture and Food Research},
-volume = {14},
-pages = {100793},
-year = {2023},
-issn = {2666-1543},
-doi = {https://doi.org/10.1016/j.jafr.2023.100793},
-url = {https://www.sciencedirect.com/science/article/pii/S2666154323003009},
-author = {Yesid Fonseca and Cristian Bautista and Camilo Pardo-Beainy and Carlos Parra},
+    title = {A plum selection system that uses a multi-class Convolutional Neural Network (CNN)},
+    journal = {Journal of Agriculture and Food Research},
+    volume = {14},
+    pages = {100793},
+    year = {2023},
+    issn = {2666-1543},
+    doi = {https://doi.org/10.1016/j.jafr.2023.100793},
+    url = {https://www.sciencedirect.com/science/article/pii/S2666154323003009},
+    author = {Yesid Fonseca and Cristian Bautista and Camilo Pardo-Beainy and Carlos Parra},
 }
