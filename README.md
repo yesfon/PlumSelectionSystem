@@ -21,3 +21,17 @@ The second element is composed of two codes made in jupyter notebook. The first 
 The idea of this proposal was to generate a compact and low-cost solution that was based on artificial intelligence techniques. In order to present a complete solution to the problem, a conveyor belt prototype is designed that allows carrying out the classification of this fruit beyond the simulation, that is, making a tangible classification of the fruits. The following link shows how the prototype works:
 
 - https://youtu.be/2B8jPHzcGXE
+
+# Citation
+If you use our work, please cite us using the following:
+@article{FONSECA2023100793,
+title = {A plum selection system that uses a multi-class Convolutional Neural Network (CNN)},
+journal = {Journal of Agriculture and Food Research},
+volume = {14},
+pages = {100793},
+year = {2023},
+issn = {2666-1543},
+doi = {https://doi.org/10.1016/j.jafr.2023.100793},
+url = {https://www.sciencedirect.com/science/article/pii/S2666154323003009},
+author = {Yesid Fonseca and Cristian Bautista and Camilo Pardo-Beainy and Carlos Parra},
+}
